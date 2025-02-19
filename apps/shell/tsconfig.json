@@ -16,5 +16,10 @@
       "path": "./tsconfig.spec.json"
     }
   ],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
   "extends": "../../tsconfig.base.json"
 }

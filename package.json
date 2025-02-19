@@ -8,7 +8,7 @@
     "@babel/core": "^7.14.5",
     "@babel/preset-react": "^7.14.5",
     "@eslint/js": "^9.8.0",
-    "@module-federation/enhanced": "^0.8.8",
+    "@module-federation/enhanced": "0.8.8",
     "@nx/eslint": "20.5.0-canary.20250219-a1c11db48c",
     "@nx/eslint-plugin": "20.5.0-canary.20250219-a1c11db48c",
     "@nx/jest": "20.5.0-canary.20250219-a1c11db48c",
@@ -19,6 +19,7 @@
     "@nx/webpack": "20.5.0-canary.20250219-a1c11db48c",
     "@nx/workspace": "20.5.0-canary.20250219-a1c11db48c",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
+    "@rspack/core": "^1.2.2",
     "@svgr/webpack": "^8.0.1",
     "@swc-node/register": "~1.9.1",
     "@swc/cli": "~0.3.12",
@@ -46,7 +47,8 @@
     "ts-node": "10.9.1",
     "tslib": "^2.3.0",
     "typescript": "~5.7.2",
-    "typescript-eslint": "^8.19.0"
+    "typescript-eslint": "^8.19.0",
+    "webpack-cli": "^6.0.1"
   },
   "dependencies": {
     "react": "19.0.0",
