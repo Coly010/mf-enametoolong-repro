@@ -1,0 +1,13 @@
+{
+  "name": "@acme/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "20.5.0-canary.20250219-a1c11db48c",
+    "@nx/workspace": "20.5.0-canary.20250219-a1c11db48c",
+    "nx": "20.5.0-canary.20250219-a1c11db48c"
+  }
+}
