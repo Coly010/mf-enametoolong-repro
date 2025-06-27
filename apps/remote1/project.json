@@ -6,6 +6,7 @@
   "tags": [],
   "targets": {
     "serve": {
+      "dependsOn": ["shell:serve"],
       "options": {
         "port": 4201
       }
